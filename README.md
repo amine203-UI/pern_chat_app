@@ -1,6 +1,8 @@
 # PERN Stack Project: Build a Real Time Chat App | Postgres, TypeScript, Prisma
 
-![Demo App](https://i.ibb.co/RC4pW36/Group-124.png)
+<p align="center">
+  <img src="./frontend/public/app.png" alt="PERN Stack Chat App" width="800">
+</p>
 
 
 
@@ -45,4 +47,3 @@ npm run build
 npm start
 ```
 
-👨‍💻 Author Amine Ould Medjeber Full-Stack Developer | Node.js • React • MongoDB • Express.js 📧 [ouldmedjeberamine@gmail.com] 🌐 [www.linkedin.com/in/amine-medjeber]
